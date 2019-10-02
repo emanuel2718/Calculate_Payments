@@ -1,6 +1,6 @@
 # Calculate_Payments-CLI
 
-- Simple command line interface program to calculate payments of employees. This mini project was made to practice beginer python programmin skills.
+- Simple command line interface program to calculate payments of employees. This mini project was made to practice my beginner python programming skills.
 
 ## How to use it:
 ![HowToRun](https://user-images.githubusercontent.com/55965894/66008517-ddd43a00-e484-11e9-8b5a-0c0fe1629ed5.png)
