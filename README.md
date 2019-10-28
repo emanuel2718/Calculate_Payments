@@ -8,7 +8,7 @@
 ## Input file [name, hours, rate]:
 ![infoText](https://user-images.githubusercontent.com/55965894/66008594-2e4b9780-e485-11e9-9347-f5dd903e53b2.png)
 
-## How to output should look [name, payment]:
+## How the output should look [name, payment]:
 ![Output](https://user-images.githubusercontent.com/55965894/66008629-4cb19300-e485-11e9-8a39-8c6101b01bc5.png)
 
 # Future updates:
